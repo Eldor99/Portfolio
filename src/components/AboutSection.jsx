@@ -27,7 +27,6 @@ const AboutSection = () => {
           <img src={home1} alt="Guy with a camera " />
         </div>
       </div>
-      ;
     </div>
   );
 };
